@@ -1,7 +1,3 @@
-<iframe src="https://github.com/sponsors/Esther7171/card" title="Sponsor Esther7171" height="225" width="600" style="border: 0;"></iframe>
-
-<iframe src="https://github.com/sponsors/Esther7171/button" title="Sponsor Esther7171" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
-
 💀 Hey there! I'm Yash, a Cyber Security Analyst.
 
 🎮 Beyond Cyber: Playing FPS games to enhance strategic thinking, problem-solving, and teamwork.
