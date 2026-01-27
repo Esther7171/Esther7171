@@ -15,7 +15,8 @@
 </p>
 
 ##  Badges
-<img src="https://github.com/user-attachments/assets/42ced0ee-b9ae-4735-a520-24f34bb86bbd" height="110" alt="https://tryhackme.com/p/Deathesther"><img src="https://tryhackme.com/img/badges/league-diamond.svg" height="120"></img><img src="https://tryhackme.com/img/badges/league-saphire.svg" height="120"><img src="https://assets.tryhackme.com/img/badges/owasptop10.svg" height="120"></img><img src="https://tryhackme.com/img/badges/streak365.svg" height="120"></img>
+<img src="https://github.com/user-attachments/assets/42ced0ee-b9ae-4735-a520-24f34bb86bbd" height="110" alt="https://tryhackme.com/p/Deathesther">[<img alt="league-diamond" src="https://github.com/user-attachments/assets/e3005450-2d10-4311-869d-fe7a095449e4" height="120">](https://tryhackme.com/Deathesther/badges/diamond-league?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=64da43943e91b18630cea7d1)
+</img><img src="https://tryhackme.com/img/badges/league-saphire.svg" height="120"><img src="https://assets.tryhackme.com/img/badges/owasptop10.svg" height="120"></img><img src="https://tryhackme.com/img/badges/streak365.svg" height="120"></img>
 
 <!--
 <img src="https://assets.tryhackme.com/img/badges/hashcracker.svg" height="180"></img><img src="https://assets.tryhackme.com/img/badges/mrrobot.svg" height="180"></img>
@@ -26,9 +27,4 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://buymeacoffee.com/deathesther"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yashadh" /></a></p><br><br
-
-
-
-
-
 
